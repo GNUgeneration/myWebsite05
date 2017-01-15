@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/GNUgeneration/myWebsite05#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "babel-core": "^6.21.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babelify": "^7.3.0",
+    "browserify": "^13.3.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
   }
 }
