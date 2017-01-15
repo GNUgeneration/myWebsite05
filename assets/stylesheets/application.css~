@@ -1,0 +1,35 @@
+/* Global */
+* {
+  box-sizing: border-box; }
+
+body {
+  background: url("../images/bg-brick.png");
+  background-size: 96px 96px;
+  font: 700 24px/1.5 "Amatic SC", cursive;
+  margin: 0;
+  padding: 0;
+  text-align: center; }
+
+button,
+input,
+textarea {
+  font-family: "Amatic SC", cursive;
+  font-weight: 700; }
+
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0; }
+
+h1 {
+  color: #fff;
+  font-size: 200%;
+  margin-top: 0.5em; }
+
+/* Layout */
+.container {
+  display: inline-block;
+  max-width: 600px;
+  text-align: left;
+  vertical-align: top;
+  width: 87.5%; }
