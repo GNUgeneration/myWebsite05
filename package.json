@@ -23,5 +23,8 @@
     "browserify": "^13.3.0",
     "gulp": "^3.9.1",
     "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "xss-filters": "^1.2.7"
   }
 }
